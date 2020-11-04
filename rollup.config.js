@@ -8,7 +8,7 @@ import { DEFAULT_EXTENSIONS } from '@babel/core';
 import { dependencies } from './package.json';
 
 export default {
-  input: ['src/index.ts'],
+  input: ['src/firebase.ts', 'src/stripe.ts', 'src/index.ts'],
   output: [
     {
       dir: 'dist',

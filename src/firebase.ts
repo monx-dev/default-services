@@ -1,6 +1,6 @@
 import admin from 'firebase-admin';
 
-export const firebase = () => {
+const firebase = () => {
   if (admin.apps.length === 0) {
     admin.initializeApp({
       credential: admin.credential.cert({
@@ -15,4 +15,4 @@ export const firebase = () => {
   return admin;
 };
 
-export type Firebase = typeof admin;
+export { admin, firebase };
