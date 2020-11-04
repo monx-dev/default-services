@@ -1,5 +1,6 @@
-export const firebase = async () => {
-  const admin = await import('firebase-admin');
+import admin from 'firebase-admin';
+
+export const firebase = () => {
   if (admin.apps.length === 0) {
     admin.initializeApp({
       credential: admin.credential.cert({
@@ -13,3 +14,5 @@ export const firebase = async () => {
 
   return admin;
 };
+
+export type Firebase = typeof admin;

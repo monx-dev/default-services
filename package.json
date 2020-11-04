@@ -18,7 +18,9 @@
     "test": "yarn build"
   },
   "dependencies": {
-    "firebase-admin": "^9.3.0"
+    "@types/stripe": "^7.13.25",
+    "firebase-admin": "^9.3.0",
+    "stripe": "^8.119.0"
   },
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
