@@ -1,3 +1,10 @@
+# [1.1.0](https://github.com/monx-dev/default-services/compare/v1.0.0...v1.1.0) (2020-11-04)
+
+
+### Features
+
+* add stripe ([834420c](https://github.com/monx-dev/default-services/commit/834420c872bdb098cda119cb32f5e4ab691dd10f))
+
 # 1.0.0 (2020-11-03)
 
 
