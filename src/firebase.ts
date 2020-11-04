@@ -8,7 +8,7 @@ const firebase = () => {
         privateKey: process.env.FIREBASE_PRIVATE_KEY,
         clientEmail: process.env.FIREBASE_CLIENT_EMAIL,
       }),
-      databaseURL: 'https://platform-8cf3f.firebaseio.com',
+      databaseURL: process.env.FIREBASE_DATABASE_URL,
     });
   }
 
