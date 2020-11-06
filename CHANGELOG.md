@@ -1,3 +1,10 @@
+## [1.1.4](https://github.com/monx-dev/default-services/compare/v1.1.3...v1.1.4) (2020-11-06)
+
+
+### Bug Fixes
+
+* build format ([aed97f4](https://github.com/monx-dev/default-services/commit/aed97f4ec94e9f66dba07b6f1231ce7ad121a762))
+
 ## [1.1.3](https://github.com/monx-dev/default-services/compare/v1.1.2...v1.1.3) (2020-11-06)
 
 
