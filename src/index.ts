@@ -1,3 +1,3 @@
-export { firebase } from './firebase';
+export * from './firebase';
 
-export { stripe } from './stripe';
+export * from './stripe';
