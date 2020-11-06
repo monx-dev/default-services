@@ -1,3 +1,10 @@
+## [1.1.2](https://github.com/monx-dev/default-services/compare/v1.1.1...v1.1.2) (2020-11-06)
+
+
+### Bug Fixes
+
+* [@monx](https://github.com/monx) packages added ([4e9153c](https://github.com/monx-dev/default-services/commit/4e9153c8c309c385cb7983930c54acf2a7466ee3))
+
 ## [1.1.1](https://github.com/monx-dev/default-services/compare/v1.1.0...v1.1.1) (2020-11-04)
 
 
