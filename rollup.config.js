@@ -4,6 +4,6 @@ import { peerDependencies, dependencies } from './package.json';
 export default rollupConfig({
   peerDependencies,
   dependencies,
-  format: 'amd',
+  format: 'esm',
   input: ['src/index.ts', 'src/firebase.ts', 'src/stripe.ts'],
 });
