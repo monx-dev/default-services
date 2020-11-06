@@ -1,3 +1,11 @@
+## [1.1.1](https://github.com/monx-dev/default-services/compare/v1.1.0...v1.1.1) (2020-11-04)
+
+
+### Bug Fixes
+
+* firebase database url ([22fda7f](https://github.com/monx-dev/default-services/commit/22fda7ff71fbd0935d4e4be3b6e165da37e18ed9))
+* types ([1736831](https://github.com/monx-dev/default-services/commit/173683168b919112bad81810a1ebbb8bc4abe2e3))
+
 # [1.1.0](https://github.com/monx-dev/default-services/compare/v1.0.0...v1.1.0) (2020-11-04)
 
 
