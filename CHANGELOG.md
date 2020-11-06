@@ -1,3 +1,10 @@
+## [1.1.3](https://github.com/monx-dev/default-services/compare/v1.1.2...v1.1.3) (2020-11-06)
+
+
+### Bug Fixes
+
+* build as esm ([d7f0ed5](https://github.com/monx-dev/default-services/commit/d7f0ed5e5e74c1023c0966e3a9f5c687159ce21e))
+
 ## [1.1.2](https://github.com/monx-dev/default-services/compare/v1.1.1...v1.1.2) (2020-11-06)
 
 
