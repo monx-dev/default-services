@@ -1,3 +1,10 @@
+# [1.2.0](https://github.com/monx-dev/default-services/compare/v1.1.4...v1.2.0) (2020-11-24)
+
+
+### Features
+
+* firebase storage bucket ([dcbfee8](https://github.com/monx-dev/default-services/commit/dcbfee8b1b07490493f44eb990f21a4bbc1351ec))
+
 ## [1.1.4](https://github.com/monx-dev/default-services/compare/v1.1.3...v1.1.4) (2020-11-06)
 
 
